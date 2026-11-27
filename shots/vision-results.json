@@ -1,0 +1,131 @@
+{
+ "about_desktop.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The \"From a station to a showroom\" heading is clipped on the right side."
+  ],
+  "note": "DEFECT: The \"From a station to a showroom\" heading is clipped on the right side.\nVERDICT: DEFECTS."
+ },
+ "about_mobile.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN."
+ },
+ "contact_desktop.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "contact_mobile.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "definitely-not-here_desktop.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "definitely-not-here_mobile.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The text \"Furniture & mattresses IN THE OLD GRAND CENTRAL STATION \u00b7 OAKLAND, MARYLAND\" in the header is clipped on the right side.",
+   "The navigation items \"SHOWROOM\", \"MATTRESSES\", \"FURNITURE\", \"ABOUT\" are not aligned and appear to be glued together in two rows without proper spacing or layout.",
+   "The \"CONTACT\" button in the header is bleeding past the viewport edge on the right.",
+   "The text \"The page you were looking for isn't here. Try the showroom, the furniture page, the mattress page \u2014 or send the shop a note.\" is clipped on the right side.",
+   "The \"BACK TO HOME\" button is not centered and appears to be bleeding past the viewport edge on the right.",
+   "The \"CONTACT THE SHOP\" button is not centered and appears to be bleeding past the viewport edge on the right.",
+   "The footer navigation links \"Showroom \u00b7 Mattresses \u00b7 Furniture \u00b7 About \u00b7 Contact \u00b7 Privacy\" are clipped on the right side."
+  ],
+  "note": "DEFECT: The text \"Furniture & mattresses IN THE OLD GRAND CENTRAL STATION \u00b7 OAKLAND, MARYLAND\" in the header is clipped on the right side.\nDEFECT: The navigation items \"SHOWROOM\", \"MATTRESSES\", \"FURNITURE\", \"ABOUT\" are not aligned and appear to be glued together in two rows without proper spacing or layout.\nDEFECT: The \"CONTACT\" button in the header is bleeding past the viewport edge on the right.\nDEFECT: The text \"The page you were looking for isn't here. Try the showroom, the furniture page, the mattress page \u2014 or send the shop a note.\" is clipped on the right side.\nDEFECT: The \"BACK TO HOME\" button is not centered and appears to be bleeding past the viewport edge on the right.\nDEFECT: The"
+ },
+ "furniture-garrett-county_desktop.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The text \"Furniture without the long drive\" in the hero section is clipped on the right side.",
+   "The \"Built to serve the community\" section's text \"This business has given us an increased ability to serve this community, and we are thankful for the support,\" says co-owner Josie Mendoza. The store's growing selection of furniture is the proof of it.\" is clipped on the right side.",
+   "The \"The selection keeps arriving\" section's text \"New inventory continues to arrive as the business grows \u2014 and the owners say the showroom is just the beginning, with additional plans on the horizon.\" is clipped on the right side.",
+   "The text \"Where is the furniture store in Garrett County?\" answer is clipped on the right side.",
+   "The text \"What kind of furniture do you carry?\" answer is clipped on the right side.",
+   "The text \"Who is behind the store?\" answer is clipped on the right side.",
+   "The text \"Does the store serve outside Oakland?\" answer is clipped on the right side."
+  ],
+  "note": "DEFECT: The text \"Furniture without the long drive\" in the hero section is clipped on the right side.\nDEFECT: The \"Built to serve the community\" section's text \"This business has given us an increased ability to serve this community, and we are thankful for the support,\" says co-owner Josie Mendoza. The store's growing selection of furniture is the proof of it.\" is clipped on the right side.\nDEFECT: The \"The selection keeps arriving\" section's text \"New inventory continues to arrive as the business grows \u2014 and the owners say the showroom is just the beginning, with additional plans on the horizon.\" is clipped on the right side.\nDEFECT: The text \"Where is the furniture store in Garrett County"
+ },
+ "furniture-garrett-county_mobile.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN."
+ },
+ "index_desktop.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "index_mobile.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The text \"Furniture & mattresses, arriving at Platform\" is clipped at the bottom, cutting off the \"3.\"",
+   "The \"SEE THE SHOWROOM\" button in the hero section is too wide for the content and has excessive padding on the right.",
+   "The \"SEND A MESSAGE\" button in the hero section is too wide for the content and has excessive padding on the right.",
+   "The \"SEND A MESSAGE\" button in the \"Find the showroom\" section is too wide for the content and has excessive padding on the right.",
+   "The \"SEND A MESSAGE\" button in the \"Stop by the showroom\" section is too wide for the content and has excessive padding on the right."
+  ],
+  "note": "DEFECT: The text \"Furniture & mattresses, arriving at Platform\" is clipped at the bottom, cutting off the \"3.\"\nDEFECT: The \"SEE THE SHOWROOM\" button in the hero section is too wide for the content and has excessive padding on the right.\nDEFECT: The \"SEND A MESSAGE\" button in the hero section is too wide for the content and has excessive padding on the right.\nDEFECT: The \"SEND A MESSAGE\" button in the \"Find the showroom\" section is too wide for the content and has excessive padding on the right.\nDEFECT: The \"SEND A MESSAGE\" button in the \"Stop by the showroom\" section is too wide for the content and has excessive padding on the right.\nVERDICT: DEFECTS."
+ },
+ "mattresses-oakland-md_desktop.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "mattresses-oakland-md_mobile.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN."
+ },
+ "privacy_desktop.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "privacy_mobile.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The main title \"Furniture & mattresses in the old Grand Central Station building - Oakland, Maryland\" is clipped on the right side.",
+   "The navigation item \"MATTRESSES\" is clipped on the right side.",
+   "The navigation item \"ABOUT\" is clipped on the right side.",
+   "The footer text \"Furniture & mattresses in Oakland's former Grand Central Station building \u2014 new inventory arriving on an ongoing basis.\" is clipped on the right side.",
+   "The footer navigation items \"Mattresses \u00b7 Furniture \u00b7 About \u00b7 Contact \u00b7 Privacy\" are clipped on the right side.",
+   "The copyright text \"\u00a9 Platform 3 Furniture \u00b7 Oakland, Maryland\" is clipped on the right side."
+  ],
+  "note": "DEFECT: The main title \"Furniture & mattresses in the old Grand Central Station building - Oakland, Maryland\" is clipped on the right side.\nDEFECT: The navigation item \"MATTRESSES\" is clipped on the right side.\nDEFECT: The navigation item \"ABOUT\" is clipped on the right side.\nDEFECT: The footer text \"Furniture & mattresses in Oakland's former Grand Central Station building \u2014 new inventory arriving on an ongoing basis.\" is clipped on the right side.\nDEFECT: The footer navigation items \"Mattresses \u00b7 Furniture \u00b7 About \u00b7 Contact \u00b7 Privacy\" are clipped on the right side.\nDEFECT: The copyright text \"\u00a9 Platform 3 Furniture \u00b7 Oakland, Maryland\" is clipped on the right side.\nVERDICT: DEFECTS."
+ },
+ "showroom_desktop.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The text \"GRAND CENTRAL STATION\" on the building graphic is partially obscured by the clock icon.",
+   "The \"GET DIRECTIONS\" button in the footer section has a different background color than the \"GET DIRECTIONS\" button in the \"Come see it in person\" section, indicating an inconsistency in styling."
+  ],
+  "note": "DEFECT: The text \"GRAND CENTRAL STATION\" on the building graphic is partially obscured by the clock icon.\nDEFECT: The \"GET DIRECTIONS\" button in the footer section has a different background color than the \"GET DIRECTIONS\" button in the \"Come see it in person\" section, indicating an inconsistency in styling.\nVERDICT: DEFECTS."
+ },
+ "showroom_mobile.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "thanks_desktop.png": {
+  "verdict": "CLEAN",
+  "defects": [],
+  "note": "VERDICT: CLEAN"
+ },
+ "thanks_mobile.png": {
+  "verdict": "DEFECTS",
+  "defects": [
+   "The navigation items \"SHOWROOM\", \"MATTRESSES\", \"FURNITURE\", and \"ABOUT\" are not aligned with each other or the \"CONTACT\" button. \"SHOWROOM\" and \"MATTRESSES\" are on one line, while \"FURNITURE\" and \"ABOUT\" are on a separate line below them, creating an uneven layout.",
+   "The text \"Furniture & mattresses IN THE OLD GRAND CENTRAL STATION \u2022 OAKLAND, MARYLAND\" in the header is partially clipped on the right side.",
+   "The \"BACK TO THE SHOWROOM\" button is wider than the \"GET DIRECTIONS\" button, causing a misalignment between the two buttons.",
+   "In the footer, the \"PAGES\" navigation links (\"Showroom \u2022 Mattresses \u2022 Furniture \u2022 About \u2022 Contact \u2022 Privacy\") are not properly line-wrapped, resulting in \"\u2022 Privacy\" being on a new line and creating an uneven layout."
+  ],
+  "note": "DEFECT: The navigation items \"SHOWROOM\", \"MATTRESSES\", \"FURNITURE\", and \"ABOUT\" are not aligned with each other or the \"CONTACT\" button. \"SHOWROOM\" and \"MATTRESSES\" are on one line, while \"FURNITURE\" and \"ABOUT\" are on a separate line below them, creating an uneven layout.\nDEFECT: The text \"Furniture & mattresses IN THE OLD GRAND CENTRAL STATION \u2022 OAKLAND, MARYLAND\" in the header is partially clipped on the right side.\nDEFECT: The \"BACK TO THE SHOWROOM\" button is wider than the \"GET DIRECTIONS\" button, causing a misalignment between the two buttons.\nDEFECT: In the footer, the \"PAGES\" navigation links (\"Showroom \u2022 Mattresses \u2022 Furniture \u2022 About \u2022 Contact \u2022 Privacy\") are not properly line-wrap"
+ }
+}
