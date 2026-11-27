@@ -1,0 +1,9 @@
+{
+  "name": "platform-3-furniture-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Platform 3 Furniture — furniture & mattresses in the former Grand Central Station building, 312 S. Third Street, Oakland MD. Template v2 (2026-11-27, t_f9208927).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
